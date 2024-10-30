@@ -79,8 +79,6 @@ The primary objective is to identify the key variables that significantly influe
 - variance_inflation_factor from statsmodels.stats.outliers_influence
 - r2_score from sklearn.metrics
 
-- This project was inspired by live session of upGrad on Industry Relevance of Linear Regression Models by [Shivam Garg]
-
 ## Contact
 
-Created by [@Kartikey Kunal](https://github.com/kunal-kartik919/Bike-sharing-assignment)
+Created by [@Kartikey Kunal](https://github.com/kunal-kartik919)
